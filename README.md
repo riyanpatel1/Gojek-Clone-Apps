@@ -1,4 +1,4 @@
-<img src=""/>
+<img src="Gojek Clone App Development Build a Multi-Service App Like Gojek for Your Business.jpeg"/>
 <p>The on-demand business model has changed how customers access everyday services. From transportation and food delivery to home services and shopping, people now prefer platforms that offer multiple solutions in one place.</p>
 <p>Businesses are adopting multi-service platforms to meet this growing demand and create convenient digital ecosystems. Building a platform similar to successful super apps helps startups and entrepreneurs launch scalable solutions, and a Gojek Clone App can be a practical approach for entering this growing market.</p>
 <h2><strong>What Is a Gojek Clone App?</strong></h2>
